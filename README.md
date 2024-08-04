@@ -1,1 +1,1 @@
-##Juego de piedra papel y tijera con JavaScript
+## Juego de piedra papel y tijera con JavaScript
